@@ -1,0 +1,24 @@
+   Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                                                              ");
+            Console.WriteLine("                                   \\▄▄▄/                                     ");
+            Console.WriteLine("      █                              █                        ████████        ");
+            Console.WriteLine("      ██   █    ██                ███████                    ██████████       ");
+            Console.WriteLine("      ███ ██  █ ██               ███ █ ███                  ██████ █████      ");
+            Console.WriteLine("      ███ █   █ ██               █████████                 ██████  ██████     ");
+            Console.WriteLine("     ███████   ████              █████████                ██████    ██████    ");
+            Console.WriteLine("    ████████████████            ██       ██              ██████      ██████   ");
+
+            // Chão
+            Console.WriteLine("▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒");
+            Console.WriteLine("▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓");
+            Console.ReadKey();
